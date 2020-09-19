@@ -6,7 +6,7 @@
   * *e-mail*: <2656nikita@gmail.com>
   * *telegram*: [@NickAndPoint](https://t.me/NickAndPoint)
   * *discord*: NickAndPoint#3239
-  
+
 ## **Summary**
 
 *I am a sunflower*
