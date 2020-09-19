@@ -35,8 +35,15 @@ a:hover {
     text-decoration: underline;
 }
 
-div {
+#A {
 	width: 1024px;
 	margin: 0 auto;
+}
 
+#B {
+	display: flex;
+}
+
+img {
+	width: 25%;
 }
