@@ -9,7 +9,7 @@
   
 ## **Summary**
 
-*I am a sunflower*
+*I am a SuNfLoWeR*
 
 ## **Skills**:
 
