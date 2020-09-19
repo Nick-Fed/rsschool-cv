@@ -34,3 +34,9 @@ a:link {
 a:hover {
     text-decoration: underline;
 }
+
+div {
+	width: 1024px;
+	margin: 0 auto;
+
+}
