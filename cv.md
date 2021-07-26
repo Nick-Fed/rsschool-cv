@@ -20,8 +20,8 @@
 
 ## **Education**:
 
-  * [*BSUIR afiliate "Minsk Radioengineering College"*](http://www.mrk-bsuir.by/en)  / Electrician for repair and maintenance of computer equipment
-  * [*BSUIR*](https://bsuir.by)  / Programmer business analyst
+  * [*BSUIR afiliate "Minsk Radioengineering College"*](http://www.mrk-bsuir.by/en) / Electrician for repair and maintenance of computer equipment
+  * [*IIT BSUIR*](https://iti.bsuir.by) / Programmer business analyst
   
   **Online**:
   
